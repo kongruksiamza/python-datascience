@@ -3,4 +3,4 @@
 ![alt text](https://user-images.githubusercontent.com/1217238/65366817-d340b780-dbdd-11e9-9eea-6dacf412212b.png)
 
 
-![alt text](https://miro.medium.com/max/481/1*cxfqR8NAj8HGal8CVOZ7hg.png)
+![alt text](https://raw.githubusercontent.com/pandas-dev/pandas/72206599f2d6dd2616520535343fd8722da75a4a/doc/logo/pandas_logo.png)
