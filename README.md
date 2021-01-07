@@ -91,3 +91,24 @@
 
 ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLTUxWssq5rtESeIXIEHefdx45-z0yb7D0xQ&usqp=CAU)
 
+- รู้จักกับ Matplotlib
+- การสร้างกราฟเบื้องต้น
+- กราฟเส้น
+- xlabel และ ylabel
+- บันทึกกราฟเป็นไฟล์รูปภาพ
+- การกำหนดสี (Color)
+- กำหนดจุด Marker
+- กำหนดรูปแบบเส้น (Line Style)
+- กำหนดคุณสมบัติของ Label
+- กำหนดหัวข้อด้วย Title
+- Legend Function
+- กำหนดตำแหน่ง Legend
+- กำหนดขนาดข้อความ Legend
+- Face & Edge Color
+- Title Legend
+- Text Function
+- กราฟวงกลม
+- ปรับแต่งกราฟวงกลม
+- กราฟการกระจาย
+- ฮิตโตแกรม
+
