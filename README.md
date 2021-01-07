@@ -54,7 +54,7 @@
 ![alt text](https://raw.githubusercontent.com/pandas-dev/pandas/72206599f2d6dd2616520535343fd8722da75a4a/doc/logo/pandas_logo.png)
 
 - รู้จักกับ Pandas 
-- โครงสร้างข้อมูล Pandas 
+- โครงสร้างข้อมูลใน Pandas 
 - สร้าง Series จาก List & Tuple 
 - สร้าง Series จาก Numpy 
 - สร้าง Series กำหนด Index 
