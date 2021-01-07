@@ -12,6 +12,40 @@
 
 ![alt text](https://user-images.githubusercontent.com/1217238/65366817-d340b780-dbdd-11e9-9eea-6dacf412212b.png)
 
+- รู้จักกับ NumPy
+- ติดตั้ง NumPy
+- การสร้าง Array 1 มิติ
+- การสร้าง Array 2 มิติ
+- การสร้าง Array 3 มิติ
+- การเข้าถึงสมาชิก Array 1 มิติ (Index)
+-  การเข้าถึงสมาชิก Array 2 มิติ (Index)
+- การเข้าถึงสมาชิก Array 3 มิติ (Index)
+- ชนิดข้อมูล (Data Type)
+- เมทริกซ์ (Matrix)
+- Zero Matrix
+- Ones Matrix
+- Matrix ค่าคงที่ (Full)
+- Empty
+- Identity
+- Linspace 
+- Arange
+- Random
+- NumPy Attribute
+- Slice Array 1 มิติ
+- Slice Array 2 มิติ
+- Index Operator
+- ตัวดำเนินการทางคณิตศาสตร์
+- Broadcasting
+- Reshape & Resize
+- Flatten
+- Transpose
+- ฟังก์ชั่นทางสถิติ
+- Dot Product
+- Concatenate
+- Append & Insert
+ - การ insert Array 2 มิติ
+- ลบสมาชิกใน Array
+- การแบ่งสมาชิกใน Array (Split)
 
 ## จัดการข้อมูลด้วย Pandas
 
