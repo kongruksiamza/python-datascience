@@ -53,6 +53,37 @@
 
 ![alt text](https://raw.githubusercontent.com/pandas-dev/pandas/72206599f2d6dd2616520535343fd8722da75a4a/doc/logo/pandas_logo.png)
 
+- รู้จักกับ Pandas 
+- โครงสร้างข้อมูล Pandas 
+- สร้าง Series จาก List & Tuple 
+- สร้าง Series จาก Numpy 
+- สร้าง Series กำหนด Index 
+- สร้าง Series จาก Dictionary 
+- การเข้าถึงข้อมูลใน Series 
+- ติดตั้ง Jupyter Notebook 
+- สร้าง Series ใน Jupyter 
+- เข้าถึงข้อมูลใน Series (Slice) 
+- สร้าง DataFrame จาก List และ Tuple 
+- สร้าง DataFrame จาก List หลายมิติ 
+- สร้าง DataFrame จาก List ด้วย zip 
+- สร้าง DataFrame จาก Dictionary 
+- สร้าง DataFrame จาก Series 
+- ส่งออกเอกสาร CSV 
+- อ่านเอกสาร CSV 
+- อ่านเอกสาร CSV บางคอลัมน์ 
+- อ่านเอกสาร CSV กำหนดหัวคอลัมน์ 
+- อ่านเอกสาร Excel 
+- ตรวจสอบข้อมูล 
+- ชนิดข้อมูลและค่าทางสถิติ 
+- การเลือกคอลัมน์และช่วงข้อมูล 
+- การเลือกแถวและช่วงข้อมูล 
+- ค้นหาข้อมูลด้วย Match & Contains
+- การลูปข้อมูล
+- สอบถามข้อมูลแบบมีเงื่อนไข
+- เลือกข้อมูลด้วย isin
+- เรียงลำดับข้อมูลด้วย Index
+- เรียงลำดับข้อมูลด้วย Value
+
 ## สร้างกราฟด้วย Matplotlib
 
 การนำข้อมูลมาแสดงผลในรูปแบบภาพกราฟิก กราฟ แผนภูมิ หรืออื่นๆ 
