@@ -3,8 +3,8 @@
 ## หัวข้อที่เกี่ยวข้อง
 - [ติดตามผ่านช่อง Youtube](https://www.youtube.com/channel/UCQ1r_4x-P-fETLIU4pqf98w)
 - [วิดีโอสอนเนื้อหา Python เบื้องต้น 100 ตอน](https://www.youtube.com/playlist?list=PLltVQYLz1BMBwqJysYnoEKWXUvqusJpgN)
-- [Python & Data Science (Full Course)](https://www.youtube.com/watch?v=MDA8SbfdLKA&list=PLltVQYLz1BMA-AN7UzcPOu_C74pdV2osq)
-- [Python & Machine Learning](https://www.youtube.com/watch?v=kUF5hPfQWaQ&list=PLEE74DyIkwEnWO3_W96AN725X2XYoUixg)
+- [Python & Data Science (Full Course)](https://www.youtube.com/playlist?list=PLltVQYLz1BMA-AN7UzcPOu_C74pdV2osq)
+- [Python & Machine Learning](https://youtu.be/kUF5hPfQWaQ)
 
 ## Numpy
 
