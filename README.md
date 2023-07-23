@@ -1,11 +1,8 @@
 # Python - Data Science และงานด้าน Machine Learning
 
 ## หัวข้อที่เกี่ยวข้อง
-- [ติดตามผ่านช่อง Youtube](https://www.youtube.com/channel/UCQ1r_4x-P-fETLIU4pqf98w)
-- [วิดีโอสอนเนื้อหา Python เบื้องต้น 100 ตอน](https://www.youtube.com/playlist?list=PLltVQYLz1BMBwqJysYnoEKWXUvqusJpgN)
 - [Python & Data Science (Full Course)](https://www.youtube.com/playlist?list=PLltVQYLz1BMA-AN7UzcPOu_C74pdV2osq)
 - [Python & Machine Learning](https://youtu.be/kUF5hPfQWaQ)
-- [คอร์สเรียนบน Udemy](https://github.com/kongruksiamza/udemy-course)
 
 ## Numpy
 
@@ -113,3 +110,11 @@
 - กราฟการกระจาย
 - ฮิตโตแกรม
 
+## ☕ ช่องทางการสนับสนุน
+- [🎓 คอร์สเรียนบน Udemy](https://github.com/kongruksiamza/udemy-course)
+- [🛒 ซื้อของผ่าน Shopee](https://shope.ee/3plB9kVnPd)
+
+## 💓 ช่อง Youtube ในเครือของเรา
+![logo](https://github.com/kongruksiamza/programmer-class-room/blob/main/logo.png?raw=true)
+- [KongRuksiam Official](https://www.youtube.com/@KongRuksiamOfficial)
+- [KongRuksiam (เทคนิคการเขียนโปรแกรม)](https://www.youtube.com/@KongRuksiamTutorial)
