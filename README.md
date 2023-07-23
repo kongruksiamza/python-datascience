@@ -5,6 +5,7 @@
 - [วิดีโอสอนเนื้อหา Python เบื้องต้น 100 ตอน](https://www.youtube.com/playlist?list=PLltVQYLz1BMBwqJysYnoEKWXUvqusJpgN)
 - [Python & Data Science (Full Course)](https://www.youtube.com/playlist?list=PLltVQYLz1BMA-AN7UzcPOu_C74pdV2osq)
 - [Python & Machine Learning](https://youtu.be/kUF5hPfQWaQ)
+- [คอร์สเรียนบน Udemy](https://github.com/kongruksiamza/udemy-course)
 
 ## Numpy
 
